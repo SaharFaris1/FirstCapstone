@@ -1,0 +1,210 @@
+//splash page
+"sp" = "Riyadh Metro";
+// home page
+"fr" = "From";
+"to" = "To ";
+"s1" = "King Saud University" ;
+"s2" = "STC station" ;
+"s3" = "Al Hamra station" ;
+"s4" = "King Fahad Stadium" ;
+"s5" = "MOE station";
+"s6" = "Officers Club";
+"s7" = "Al Wizarat";
+"s8" = "Ministry of Finance";
+"s9" = "Tuwaig";
+"s10" = "Courts Complex";
+"s11" = "Qasr Al Hokm";
+"s12" = "Al Malaz";
+"s13" = "Jarir District";
+"s14" = "An Naseem";
+"s15" = "Al Aridh";
+"s16" = "King Fahad";
+"s17" = "Olaya";
+"s18" = "Tahliah";
+"s19" = "Ministry of Interior";
+"s20" = "Passport Department ";
+"s21" = " Public transportation center";
+"s22" = "KAFD";
+"s23" = "Imam University";
+"s24" = "Princess Noura University ";
+"s25" = "Airport Terminal 5";
+"s26" = " Ar Rabi";
+"s27" = "Ghirnata";
+"s28" = "Al Yarmulke";
+"s29" = "Al Andalus";
+"s30" = " As Salam";
+"choose" = "Choose Date";
+"pass" = "Passengers";
+"tr" = " Bookin ticket";
+// Onboarding Page
+"title1" = "Comfortable Trip";
+"subtitle1" = "Enjoy Hassle Free Trip";
+"title2" = "Online tickets";
+"subtitle2" = "Buy tickets Online Easily & Quickly";
+"title3" = "seamless journey";
+"subtitle3" = "your comfort is our commitment";
+"gs" = "Get Started";
+"hav" = "already have an account?";
+"acc" = "Sign In";
+// signup Page
+"signupTitle" = "Welcome to Riyadh Metro" ;
+"signupWel" = "Create your Account" ;
+"f1" = "First Name" ;
+"f2" = "Last Name" ;
+"f3" = "Email";
+"f4" = "password";
+"f5" = "Sign Up";
+"f6" = "already have an account?";
+"f7" = "Sign In";
+// sign in page
+"si1" = "Welcome to Riyadh Metro";
+"si2" = "Sign in to your account by entering Email and Password";
+"si3" = "Email";
+"si4" = "Password";
+"si5" = "Forgot Password?";
+"si6" = "Sign In";
+"si7" = "Don't have an account?";
+"si8" = "Sign up";
+// ptofile page
+"pr1" = "My Ticket";
+"pr2" = "Notification Setting";
+"pr3" = "Feedback & Report";
+"pr4" = "Help Center";
+"pr5" = "Term & Condition";
+//feedback page
+"feed1" = "Feedback & Report";
+"feed2" = "Your Feedback";
+"feed3" = "We would like your feedback to improve our service";
+"feed4" = "It will help us to serve you better";
+"feed5" = "Share Feedback";
+"feed6" = "Not satisfied";
+"feed7" = "Somewhat satisfied";
+"feed8" = "Satisfied";
+"feed9" = "Very satisfied";
+// Reset Pass page
+"re1" = "Create New Password";
+"re2" = "Enter new Password";
+"re3" = "Confirm Password";
+"re4" = "Reset Password";
+// OTP Page
+"ot1" = "Enter Verification Code";
+"ot2" = "Enter code that we have sent to your Email";
+"ot3" = "Verify";
+"ot4" = "Don't receive the code?";
+"ot5" = "Resend";
+// Notifications Page
+"not1" = "Email Notification";
+"not2" = "Screen Notification";
+"not3" = "Ticket Notification";
+"not5" = "Sound Notification";
+"not6" = "Vibration Notification";
+"not7" = "Notifications Setting";
+// forget page
+"for1" = "Forgot Your Password?";
+"for2" = "Enter your Email we will send you confirmation code";
+"for3" = "Reset Password";
+// Ticket page
+"ti1" = "Duration:";
+"ti2" = "Date:";
+"ti3" = "Price 25 SR";
+"ti14" = "Proceed to payment";
+"ti15" ="Back to Home";
+// seatSelection Page
+"sel1" = "Selected" ;
+"sel2" = "Not Available";
+"sel3" = "Available";
+"sel4" = "Proceed to booking";
+"se15" = "Selected Seats";
+"se16" = "No seats selected";
+
+// payment Page
+"pay1" = "Please complete payment within 15 minutes. or your ticket will be cancelled";
+"pay2" = "Make payment";
+// Finish page
+"fi1" = "Congratulations!";
+"fi2" = "Thank you for your purchase";
+"fi3" = "Your Ticket ID is PNR-A0 123 A56 L89";
+"fi4" = "View Ticket";
+// map page
+"map1" = "King Saud University";
+"map2" = "STC station";
+"map3" = "MOE station";
+"map4" = "Khalid Bin Alwaleed Road";
+"map5" = "Al Hamra station";
+"map6" = "King Fahad Stadium";
+"map7" = "MOE station";
+"map8" = "Officers Club";
+"map9" = "Al Wizarat";
+"map10" = "Ministry of Defense";
+"map11" = "MEW&A";
+"map12" = "Ministry of Finance";
+"map13" = "National Museum";
+"map14" = "Jeddah Road";
+"map15" = "Tuwaig";
+"map16" = "Western Station";
+"map17" = "Aishah bint Abi Bakr Street";
+"map18" = "Al Jarradiyah";
+"map19" = "Courts Complex";
+"map20" = "Qasr Al Hokm";
+"map21" = "Al Hilla station";
+"map22" = "Al Margab station";
+"map23" = "First Industrial City";
+"map24" = "Railway";
+"map25" = "Al Malaz";
+"map26" = "Jarir District";
+"map27" = "Al Rajhi Grand Mosque";
+"map28" = "Harun Ar Rashid Road";
+"map29" = "An Naseem";
+"map30" = "Al Aridh";
+"map31" = "Alsahafa";
+"map32" = "KAFD";
+"map33" =  "King Fahad";
+"map34" = "Olaya";
+"map35" = " Tahliah";
+"map36" =  " King Fahad Liberary";
+"map37" = "  Ministry of Interior ";
+"map38" = " Al Muorabba ";
+"map39" =  "Passport Department";
+"map40" = " National Museum  ";
+"map41" = " Al Bat'ha";
+"map42" = " Palace of government ";
+"map43" = " Al Owd";
+"map44" = " Skirinah";
+"map45" = " Manfouhah  ";
+"map46" = " Al Iman Hospital";
+"map47" = "Public transportation center  ";
+"map48" = " Aziziyah  ";
+"map49" = "  White house";
+
+"map50" = "KAFD";
+"map51" = " Ar Rabi";
+"map52" = " Othman Bin Affan Road ";
+"map53" = "  Imam University";
+"map54" = "   Princess Noura University ";
+"map55" = "  Governmental Complex";
+"map56" = " Airport Terminal 5";
+"map57" = " Terminal 3 & 4";
+"map58" = "KAFD";
+"map59" = " Ar Rabi";
+"map60" = " Othman Bin Affan Road";
+"map61" = "Ghirnata";
+"map62" = "Al Yarmulke";
+"map63" = "Al Andalus";
+"map64" = " As Salam";
+"map65" = " An Naseem";
+// tapView
+"tap1" = "Home";
+"tap2" = "Map";
+"tap3" = "Profile";
+// feedback
+"feed6" = "Not satisfied";
+"feed7" = "Somewhat satisfied";
+"feed8" = "Satisfied";
+"feed9" = "Very satisfied";
+
+
+
+
+
+
+
